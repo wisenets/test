@@ -1,3 +1,6 @@
 # test
-Learning github
-I made som changes
+## Learning github
+
+I made some changes.
+Here there are...
+Follow me...
